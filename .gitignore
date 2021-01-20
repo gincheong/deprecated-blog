@@ -27,3 +27,7 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+
+
+# hide content
+_posts\normal\2020-07-18-3.md
